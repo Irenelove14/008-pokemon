@@ -1,10 +1,15 @@
+body{
+background-image: url(c.jpeg);
+background-size: cover;
+
+}
 .character{
   width: 200px;
   height: 200px;
   position:absolute;
   bottom: 20%;
   left: 30%;
-  background-image: url('peppapig.webp');
+  background-image: url('peppa_pig.png');
   background-size: cover;
 }
 
